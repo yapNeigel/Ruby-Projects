@@ -12,6 +12,8 @@ if song.upcase == "SUPER FAR"
 	else
 		puts "Oh...you don't want to? :("
 	end
+
+	puts "tempo"
 else
 	puts "Nice, "+song
 end
